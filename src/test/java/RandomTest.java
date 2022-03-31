@@ -4,10 +4,6 @@ import static org.junit.Assert.assertEquals;
 
 public class RandomTest {
 
-    @Test
-    public void breakCode() {
-        assertEquals(0, RandomCode.getOne());
-    }
 
     @Test
     public void successfulTest() {
