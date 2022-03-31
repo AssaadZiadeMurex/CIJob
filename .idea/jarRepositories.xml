@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="production-public-repository" />
+      <option name="name" value="production-public-repository" />
+      <option name="url" value="https://pandora.fr.murex.com/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="mxem-releases" />
+      <option name="name" value="mxem-releases" />
+      <option name="url" value="https://nexus-is-internal.cd.murex.com/repository/mxem-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="production-murex-repository" />
+      <option name="name" value="production-murex-repository" />
+      <option name="url" value="https://pandora.fr.murex.com/content/groups/murex" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="mxtest-snapshots" />
+      <option name="name" value="mxtest-snapshots" />
+      <option name="url" value="https://nexus-is-internal.cd.murex.com/repository/mxtest-snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="pc-tooling-snapshots" />
+      <option name="name" value="pc-tooling-snapshots" />
+      <option name="url" value="https://nexus-is-internal.cd.murex.com/repository/pc-tooling-snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="mxtest-releases" />
+      <option name="name" value="mxtest-releases" />
+      <option name="url" value="https://nexus-is-internal.cd.murex.com/repository/mxtest-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="pc-tooling-releases" />
+      <option name="name" value="pc-tooling-releases" />
+      <option name="url" value="https://nexus-is-internal.cd.murex.com/repository/pc-tooling-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="mxem-snapshots" />
+      <option name="name" value="mxem-snapshots" />
+      <option name="url" value="https://nexus-is-internal.cd.murex.com/repository/mxem-snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+  </component>
+</project>
